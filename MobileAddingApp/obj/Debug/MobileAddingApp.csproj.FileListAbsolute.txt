@@ -1,0 +1,7 @@
+C:\Users\Ceren\source\repos\MobileAddingApp\MobileAddingApp\bin\Debug\MobileAddingApp.exe.config
+C:\Users\Ceren\source\repos\MobileAddingApp\MobileAddingApp\bin\Debug\MobileAddingApp.exe
+C:\Users\Ceren\source\repos\MobileAddingApp\MobileAddingApp\bin\Debug\MobileAddingApp.pdb
+C:\Users\Ceren\source\repos\MobileAddingApp\MobileAddingApp\obj\Debug\MobileAddingApp.csprojResolveAssemblyReference.cache
+C:\Users\Ceren\source\repos\MobileAddingApp\MobileAddingApp\obj\Debug\MobileAddingApp.csproj.CoreCompileInputs.cache
+C:\Users\Ceren\source\repos\MobileAddingApp\MobileAddingApp\obj\Debug\MobileAddingApp.exe
+C:\Users\Ceren\source\repos\MobileAddingApp\MobileAddingApp\obj\Debug\MobileAddingApp.pdb
